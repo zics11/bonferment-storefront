@@ -34,6 +34,9 @@ module.exports = {
           80: "#1F2937",
           90: "#111827",
         },
+        bg: {
+          bf: "#F5F3EA", // Assurez-vous que c'est bien défini ici
+        },
       },
       borderRadius: {
         none: "0px",
